@@ -1,6 +1,7 @@
 import * as fs from 'node:fs/promises'
 import * as path from 'node:path'
 import * as url from 'node:url'
+import dayjs from 'dayjs'
 import ExifReader from 'exifreader'
 
 const __filename = url.fileURLToPath(import.meta.url)
@@ -21,4 +22,15 @@ const data = await Promise.all(
   })
 )
 
-await fs.writeFile('data.json', JSON.stringify(data, null, 2))
+const extractSemester = (entry) => {
+  const timestamp = dayjs(entry.timestamp)
+  return `${timestamp.month() < 6 ? 'Spring' : 'Fall'} ${timestamp.year()}`
+}
+
+const semesters = [...new Set(data.map(extractSemester))]
+const grouped = semesters.map((semester) => ({
+  semester,
+  data: data.filter((entry) => extractSemester(entry) === semester),
+}))
+
+await fs.writeFile('data.json', JSON.stringify(grouped, null, 2))
