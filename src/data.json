@@ -5,7 +5,7 @@
       {
         "filename": "001.jpeg",
         "timestamp": "2019-09-06T11:06:05-04:00",
-        "description": "This was the first picture of food I took at Cornell."
+        "description": "I started at Cornell as a freshman in Fall 2019. This was the first picture of food I ever took at Cornell, sitting in Okenshields. I used to come here every Monday, Wednesday, and Friday after MATH 2940: Linear Algebra for Engineers in Olin Hall, beating the lunch rush."
       },
       {
         "filename": "002.jpeg",
@@ -13,7 +13,8 @@
       },
       {
         "filename": "003.jpeg",
-        "timestamp": "2019-10-13T18:05:22-04:00"
+        "timestamp": "2019-10-13T18:05:22-04:00",
+        "description": "This picture is from North Star at Appel, commonly known as just Appel. Most of my meals on North Campus were eaten at Appel, with very few at Robert Purcell Marketplace Eatery."
       },
       {
         "filename": "004.jpeg",
@@ -21,7 +22,8 @@
       },
       {
         "filename": "005.jpeg",
-        "timestamp": "2019-10-29T17:09:27-04:00"
+        "timestamp": "2019-10-29T17:09:27-04:00",
+        "description": "On Tuesdays I would have PE 1300: Introduction to Bowling, and ate at Appel right after class. The various Asian chicken dishes were a Tuesday staple."
       },
       {
         "filename": "006.jpeg",
@@ -50,7 +52,8 @@
     "data": [
       {
         "filename": "011.jpeg",
-        "timestamp": "2020-01-14T17:32:50-05:00"
+        "timestamp": "2020-01-14T17:32:50-05:00",
+        "description": "The Spring 2020 semester started out the same way that Fall 2019 left off. No one knew what would happen in two months..."
       },
       {
         "filename": "012.jpeg",
@@ -70,7 +73,8 @@
       },
       {
         "filename": "016.jpeg",
-        "timestamp": "2020-01-22T08:54:06-05:00"
+        "timestamp": "2020-01-22T08:54:06-05:00",
+        "description": "Eating breakfast isn't something that everyone does. Usually I skipped it because I'd choose to eat after my first classes of the day instead, which would be around lunchtime. During this semester I had a 8 AM PE class, so I actually ate breakfast at Appel. This semester I also started to eat a lot of yogurt."
       },
       {
         "filename": "017.jpeg",
@@ -102,7 +106,8 @@
       },
       {
         "filename": "024.jpeg",
-        "timestamp": "2020-02-07T17:48:21-05:00"
+        "timestamp": "2020-02-07T17:48:21-05:00",
+        "description": "This picture contains salmon (!)"
       },
       {
         "filename": "025.jpeg",
@@ -166,11 +171,13 @@
       },
       {
         "filename": "040.jpeg",
-        "timestamp": "2020-03-10T17:26:11-04:00"
+        "timestamp": "2020-03-10T17:26:11-04:00",
+        "description": "On this day, Martha Pollack sent out the email announcing the move to virtual instruction. This picture was taken three minutes after the email arrived in my inbox, and I probably hadn't seen it yet. But I had seen the sudden switch to paper plates not large enough to hold a slice of pizza, plastic cups, and plastic forks."
       },
       {
         "filename": "041.jpeg",
-        "timestamp": "2020-03-11T11:07:11-04:00"
+        "timestamp": "2020-03-11T11:07:11-04:00",
+        "description": "The next day, I visited Okenshields and saw the continued shift to disposable containers and utensils. Self-service also went away, replaced by dining workers putting food on your plate. At this point, people did not have masks yet."
       },
       {
         "filename": "042.jpeg",
@@ -178,7 +185,8 @@
       },
       {
         "filename": "043.jpeg",
-        "timestamp": "2020-03-11T18:08:23-04:00"
+        "timestamp": "2020-03-11T18:08:23-04:00",
+        "description": "The Appel dish return no longer accepts dishes. The signs say, 'PLEASE DISPOSE OF ALL DISHWARE INTO TRASH BAG LINED CONTAINERS>>>DO NOT PUT ON DISH RETURN THANK YOU FOR YOUR HELP IN THIS MATTER!'"
       },
       {
         "filename": "044.jpeg",
@@ -186,7 +194,8 @@
       },
       {
         "filename": "045.jpeg",
-        "timestamp": "2020-03-12T17:35:20-04:00"
+        "timestamp": "2020-03-12T17:35:20-04:00",
+        "description": "The tall cups are a lot better than the short cups."
       },
       {
         "filename": "046.jpeg",
@@ -206,11 +215,13 @@
       },
       {
         "filename": "050.jpeg",
-        "timestamp": "2020-03-16T17:57:37-04:00"
+        "timestamp": "2020-03-16T17:57:37-04:00",
+        "description": "Cornell Dining switches to take-out only. Students are not allowed to eat in designated dining rooms to promote social distancing. I remember feeling confused about this, because students could just congregate in other locations instead. I carried the takeout container back to Dickson, and ate at a table on the 5th floor common room."
       },
       {
         "filename": "051.jpeg",
-        "timestamp": "2020-03-17T17:41:18-04:00"
+        "timestamp": "2020-03-17T17:41:18-04:00",
+        "description": "Many people had left Ithaca by this point, and campus was feeling very isolated."
       },
       {
         "filename": "052.jpeg",
@@ -222,7 +233,8 @@
       },
       {
         "filename": "054.jpeg",
-        "timestamp": "2020-03-19T17:33:47-04:00"
+        "timestamp": "2020-03-19T17:33:47-04:00",
+        "description": "My last meal at Cornell in Spring 2020 was eaten on the first floor of Appel, at an uncomfortable seat. Other people are visible in the background."
       }
     ]
   },
@@ -231,7 +243,8 @@
     "data": [
       {
         "filename": "055.jpeg",
-        "timestamp": "2020-08-23T19:48:48-06:00"
+        "timestamp": "2020-08-23T19:48:48-06:00",
+        "description": "The Fall 2020 semester was a dark time. I still chose to come to campus, and was able to see what college was like during this period. This is a photo of the COVID-19 isolation meals that I received for the quarantining period."
       },
       {
         "filename": "056.jpeg",
@@ -239,7 +252,8 @@
       },
       {
         "filename": "057.jpeg",
-        "timestamp": "2020-08-24T15:26:37-06:00"
+        "timestamp": "2020-08-24T15:26:37-06:00",
+        "description": "Limited dining options were available this semester. This was the single time that I dined in during this semester, and it was enough. The tables were distant from each other, and I found that I'd rather eat in my room and watch YouTube. On the plus side, reusable plates were back, at least sometimes.\nOne of the new additions during this period was the GET App and scanner system instead of physical card swipes. Until phones with facial recognition adjusted to mask-wearing, fingerprint readers reigned superior for opening the app. I predicted that scanners would stick around after the pandemic, and I think I was correct."
       },
       {
         "filename": "058.jpeg",
@@ -259,7 +273,8 @@
       },
       {
         "filename": "062.jpeg",
-        "timestamp": "2020-08-28T18:01:47-06:00"
+        "timestamp": "2020-08-28T18:01:47-06:00",
+        "description": "This is what lining up to get food at Becker looked like. People stood on dots for social distancing and the line sometimes took 20 minutes to get through. People also had to reserve pick up times in advance through OpenTable to spread out the traffic. This was mostly effective, though later in the semester some people stopped bothering and the person checking would stop caring as much."
       },
       {
         "filename": "063.jpeg",
@@ -291,7 +306,8 @@
       },
       {
         "filename": "070.jpeg",
-        "timestamp": "2020-09-04T18:19:45-06:00"
+        "timestamp": "2020-09-04T18:19:45-06:00",
+        "description": "I started to take enough of these pictures to develop a habit of how exactly to take them. This top-down format stuck around for a long time."
       },
       {
         "filename": "071.jpeg",
@@ -395,7 +411,8 @@
       },
       {
         "filename": "096.jpeg",
-        "timestamp": "2020-09-20T12:17:28-04:00"
+        "timestamp": "2020-09-20T12:17:28-04:00",
+        "description": "Sometimes the regular white takeout containers were not available, and we used transparent containers instead. Some takeout containers had ridges on the inside to keep food compartments separate, but others did not."
       },
       {
         "filename": "097.jpeg",
@@ -539,7 +556,8 @@
       },
       {
         "filename": "132.jpeg",
-        "timestamp": "2020-10-12T20:12:30-04:00"
+        "timestamp": "2020-10-12T20:12:30-04:00",
+        "description": "Sometimes the dining hall ran out of supplies, so here's a burger patty without a bun."
       },
       {
         "filename": "133.jpeg",
@@ -707,7 +725,8 @@
       },
       {
         "filename": "174.jpeg",
-        "timestamp": "2020-11-07T18:40:55-05:00"
+        "timestamp": "2020-11-07T18:40:55-05:00",
+        "description": "This was one of the infrequent times that I ate dinner with friends. We sat at a picnic table outside of Keeton House. Anna's also in AMST 2001, and hello if you see this."
       },
       {
         "filename": "175.jpeg",
@@ -783,7 +802,8 @@
       },
       {
         "filename": "193.jpeg",
-        "timestamp": "2020-11-19T19:56:45-05:00"
+        "timestamp": "2020-11-19T19:56:45-05:00",
+        "description": "My strategy for carrying food from the dining hall back to my room was to stack containers like this. The clear plastic containers were difficult to stack because they were slippery and didn't have ridges to help hold the tower in place like some of the white containers did."
       },
       {
         "filename": "194.jpeg",
@@ -819,11 +839,13 @@
       },
       {
         "filename": "202.jpeg",
-        "timestamp": "2020-11-26T15:09:07-05:00"
+        "timestamp": "2020-11-26T15:09:07-05:00",
+        "description": "Thanksgiving at Cornell consists of one opportunity to eat during the whole day, with the added requirement of needing to walk all the way to RPME. The food is nicer though, with some items exclusive to the holiday."
       },
       {
         "filename": "203.jpeg",
-        "timestamp": "2020-11-26T15:09:12-05:00"
+        "timestamp": "2020-11-26T15:09:12-05:00",
+        "description": "The dining hall was pretty empty, and people still had to maintain social distancing."
       },
       {
         "filename": "204.jpeg",
@@ -968,11 +990,13 @@
     "data": [
       {
         "filename": "238.jpeg",
-        "timestamp": "2021-01-24T15:01:38-05:00"
+        "timestamp": "2021-01-24T15:01:38-05:00",
+        "description": "Arriving back at campus for Spring 2021, we started off with quarantine meals, then moved back to a similar system as the previous semester."
       },
       {
         "filename": "239.jpeg",
-        "timestamp": "2021-01-24T17:14:10-05:00"
+        "timestamp": "2021-01-24T17:14:10-05:00",
+        "description": "Contents of the quarantine meals. The Cornell Dining bag design is cool and I used it to buy groceries when I moved off campus in Fall 2022."
       },
       {
         "filename": "240.jpeg",
@@ -1012,7 +1036,8 @@
       },
       {
         "filename": "249.jpeg",
-        "timestamp": "2021-01-28T19:10:20-05:00"
+        "timestamp": "2021-01-28T19:10:20-05:00",
+        "description": "The first takeout meal from a dining hall this semester, from Becker House."
       },
       {
         "filename": "250.jpeg",
@@ -1044,7 +1069,8 @@
       },
       {
         "filename": "257.jpeg",
-        "timestamp": "2021-02-04T19:56:37-05:00"
+        "timestamp": "2021-02-04T19:56:37-05:00",
+        "description": "This semester, I started sometimes picking up a regular meal and a smaller meal at the same time to only have to visit the dining hall once per day. The whole process of needing to make a reservation and wait in line to get food was tedious enough that it caused me to do this. But sometimes I would eat all of the food and return to the dining hall later as normal."
       },
       {
         "filename": "258.jpeg",
@@ -1104,7 +1130,8 @@
       },
       {
         "filename": "272.jpeg",
-        "timestamp": "2021-02-12T17:35:31-05:00"
+        "timestamp": "2021-02-12T17:35:31-05:00",
+        "description": "Sometimes the dining hall would serve plenty of food, or nice food like ribs. But other times, it felt like I was barely receiving enough to eat even after asking for more, and I didn't want to have to go through the whole line again to get more food."
       },
       {
         "filename": "273.jpeg",
@@ -1332,7 +1359,8 @@
       },
       {
         "filename": "329.jpeg",
-        "timestamp": "2021-03-16T13:49:28-04:00"
+        "timestamp": "2021-03-16T13:49:28-04:00",
+        "description": "It took me an embarrassingly long time to switch to using a reusable takeout container. Other than the huge reduction in environmental impact, the reusable takeout containers were much sturdier and nicer to use than the disposable counterparts. They also were in much less danger of soaking through like the disposable ones, which was why I had to use paper towels on my desk previously."
       },
       {
         "filename": "330.jpeg",
@@ -1360,7 +1388,8 @@
       },
       {
         "filename": "336.jpeg",
-        "timestamp": "2021-03-19T19:49:54-04:00"
+        "timestamp": "2021-03-19T19:49:54-04:00",
+        "description": "A reusable container ticket. The process of using them was different at various dining halls and there was a learning curve for what to do differently in each location."
       },
       {
         "filename": "337.jpeg",
@@ -1720,7 +1749,8 @@
       },
       {
         "filename": "426.jpeg",
-        "timestamp": "2021-05-10T23:47:06-04:00"
+        "timestamp": "2021-05-10T23:47:06-04:00",
+        "description": "This was the remnants of the first meal I think I ate at Terrace. It reminded me that I'm not great with spicy food."
       },
       {
         "filename": "427.jpeg",
@@ -1813,15 +1843,18 @@
     "data": [
       {
         "filename": "448.jpeg",
-        "timestamp": "2021-08-19T19:14:40-04:00"
+        "timestamp": "2021-08-19T19:14:40-04:00",
+        "description": "Helping my sister with freshman move in, I returned to North Star at Appel for the first time since Spring 2020. Chairs and tables must remain as spaced due to operating guidelines, but people could dine in without a reservation."
       },
       {
         "filename": "449.jpeg",
-        "timestamp": "2021-08-19T19:25:35-04:00"
+        "timestamp": "2021-08-19T19:25:35-04:00",
+        "description": "Being able to dine in with my family was a nice experience, and it was cool to be back where I had eaten so many meals as a freshman before the pandemic hit."
       },
       {
         "filename": "450.jpeg",
-        "timestamp": "2021-08-20T17:02:54-04:00"
+        "timestamp": "2021-08-20T17:02:54-04:00",
+        "description": "Okenshields was also open for regular dine in. Even the iconic Asian station plates were back!"
       },
       {
         "filename": "451.jpeg",
@@ -1837,7 +1870,8 @@
       },
       {
         "filename": "454.jpeg",
-        "timestamp": "2021-08-22T19:31:53-04:00"
+        "timestamp": "2021-08-22T19:31:53-04:00",
+        "description": "Students dining in at Becker House, it almost looks like things are normal again. Some dining halls were using reusable cups at this time, but Becker still had paper Pepsi cups."
       },
       {
         "filename": "455.jpeg",
@@ -1849,7 +1883,8 @@
       },
       {
         "filename": "457.jpeg",
-        "timestamp": "2021-08-24T10:54:13-04:00"
+        "timestamp": "2021-08-24T10:54:13-04:00",
+        "description": "Scene at Jansen's Dining Room at Bethe House."
       },
       {
         "filename": "458.jpeg",
@@ -1861,11 +1896,13 @@
       },
       {
         "filename": "460.jpeg",
-        "timestamp": "2021-08-25T13:43:03-04:00"
+        "timestamp": "2021-08-25T13:43:03-04:00",
+        "description": "Regression to paper plates, paper cups, and plastic forks :("
       },
       {
         "filename": "461.jpeg",
-        "timestamp": "2021-08-25T17:22:51-04:00"
+        "timestamp": "2021-08-25T17:22:51-04:00",
+        "description": "The new Okenshields entrance was where the Ivy Room used to be. The previous entrance was now exit-only. Many students seemed not to know about the other entrance near the south side of the building, but once I discovered that I found it a very convenient way to avoid the traffic jam of people entering here."
       },
       {
         "filename": "462.jpeg",
@@ -1877,7 +1914,8 @@
       },
       {
         "filename": "464.jpeg",
-        "timestamp": "2021-08-26T19:01:47-04:00"
+        "timestamp": "2021-08-26T19:01:47-04:00",
+        "description": "Traffic jam of people trying to enter Becker Dining Room."
       },
       {
         "filename": "465.jpeg",
@@ -1889,7 +1927,8 @@
       },
       {
         "filename": "467.jpeg",
-        "timestamp": "2021-08-27T19:35:38-04:00"
+        "timestamp": "2021-08-27T19:35:38-04:00",
+        "description": "Scene at Alice Cook House. The clean/dirty placards on the tables still remained, but more often than not they were ignored because there wasn't enough time to clean the tables between when students would use them, and they didn't really affect where students would sit."
       },
       {
         "filename": "468.jpeg",
@@ -1921,7 +1960,8 @@
       },
       {
         "filename": "475.jpeg",
-        "timestamp": "2021-09-01T12:34:32-04:00"
+        "timestamp": "2021-09-01T12:34:32-04:00",
+        "description": "Eating at Trillium was part of my routine this semester because I had a nearby class. I ate a lot of quesadillas and hamburgers."
       },
       {
         "filename": "476.jpeg",
@@ -1953,7 +1993,8 @@
       },
       {
         "filename": "483.jpeg",
-        "timestamp": "2021-09-05T19:05:26-04:00"
+        "timestamp": "2021-09-05T19:05:26-04:00",
+        "description": "Scene at Keeton House."
       },
       {
         "filename": "484.jpeg",
@@ -2033,7 +2074,8 @@
       },
       {
         "filename": "503.jpeg",
-        "timestamp": "2021-09-16T19:06:17-04:00"
+        "timestamp": "2021-09-16T19:06:17-04:00",
+        "description": "Cornell Dairy ice cream is really good. This semester I started to take more advantage of the ice cream in Dining Halls. Little Bear Mint Chip is one of my favorite flavors."
       },
       {
         "filename": "504.jpeg",
@@ -2369,7 +2411,8 @@
       },
       {
         "filename": "587.jpeg",
-        "timestamp": "2021-11-03T12:22:23-04:00"
+        "timestamp": "2021-11-03T12:22:23-04:00",
+        "description": "Bags of Cornell Dairy milk resupplying the dispensers at Okenshields. Really wanted to poke them."
       },
       {
         "filename": "588.jpeg",
@@ -2529,7 +2572,8 @@
       },
       {
         "filename": "627.jpeg",
-        "timestamp": "2021-11-25T14:07:50-05:00"
+        "timestamp": "2021-11-25T14:07:50-05:00",
+        "description": "Thanksgiving at Cornell in 2021 was better than the previous year. I went to RPME to feast with my dorm's GRFs and some others, and we had a good time."
       },
       {
         "filename": "628.jpeg",
@@ -2577,7 +2621,8 @@
       },
       {
         "filename": "639.jpeg",
-        "timestamp": "2021-12-01T19:12:58-05:00"
+        "timestamp": "2021-12-01T19:12:58-05:00",
+        "description": "Dining hall lines were mostly things of the past, but sometimes there would still be congestion in the serving line."
       },
       {
         "filename": "640.jpeg",
@@ -2669,7 +2714,8 @@
       },
       {
         "filename": "662.jpeg",
-        "timestamp": "2021-12-13T17:52:35-05:00"
+        "timestamp": "2021-12-13T17:52:35-05:00",
+        "description": "A spike in COVID-19 cases led to the return to takeout meals for many students out of an abundance of caution. Dining in was still available, but with reduced seating and getting takeout strongly encouraged."
       },
       {
         "filename": "663.jpeg",
@@ -2706,7 +2752,8 @@
     "data": [
       {
         "filename": "670.jpeg",
-        "timestamp": "2022-01-20T18:04:30-05:00"
+        "timestamp": "2022-01-20T18:04:30-05:00",
+        "description": "All dining for the Spring 2022 semester started off with takeout meals only. Classes also started off online for this semester, and it felt like a strange flashback to the previous school year with many online classes."
       },
       {
         "filename": "671.jpeg",
@@ -2722,7 +2769,8 @@
       },
       {
         "filename": "674.jpeg",
-        "timestamp": "2022-01-23T19:36:13-05:00"
+        "timestamp": "2022-01-23T19:36:13-05:00",
+        "description": "My first time eating at the new Morrison Dining Hall was getting takeout with my sister and eating in her dorm. The pasta was unlike anything I had ever seen on West Campus at the time."
       },
       {
         "filename": "675.jpeg",
@@ -2838,7 +2886,8 @@
       },
       {
         "filename": "703.jpeg",
-        "timestamp": "2022-02-07T11:14:34-05:00"
+        "timestamp": "2022-02-07T11:14:34-05:00",
+        "description": "As classes shifted to being in-person, so did in-person dining. Self service and full menus were available, with takeout still available at dining halls. Disposable takeout containers were no longer offered, and reusable ones were mandatory."
       },
       {
         "filename": "704.jpeg",
@@ -3010,7 +3059,8 @@
       },
       {
         "filename": "746.jpeg",
-        "timestamp": "2022-03-02T19:13:30-05:00"
+        "timestamp": "2022-03-02T19:13:30-05:00",
+        "description": "SELF SERVE CHICKEN NUGGETS"
       },
       {
         "filename": "747.jpeg",
@@ -3090,7 +3140,8 @@
       },
       {
         "filename": "766.jpeg",
-        "timestamp": "2022-03-12T19:39:43-05:00"
+        "timestamp": "2022-03-12T19:39:43-05:00",
+        "description": "Reusable plates were more consistently available this semester than before, though occasionally the paper plate was needed."
       },
       {
         "filename": "767.jpeg",
@@ -3114,7 +3165,8 @@
       },
       {
         "filename": "772.jpeg",
-        "timestamp": "2022-03-16T19:45:22-04:00"
+        "timestamp": "2022-03-16T19:45:22-04:00",
+        "description": "This picture was taken at Morrison Dining. You can tell because of the pasta shape."
       },
       {
         "filename": "773.jpeg",
@@ -3150,7 +3202,8 @@
       },
       {
         "filename": "781.jpeg",
-        "timestamp": "2022-03-22T11:04:33-04:00"
+        "timestamp": "2022-03-22T11:04:33-04:00",
+        "description": "Tuesday chicken udon at Okenshields was something I enjoyed a lot freshman year, but I think the quality went down as the years went by. The special plates were also absent, replaced with plain white ones."
       },
       {
         "filename": "782.jpeg",
@@ -3234,7 +3287,8 @@
       },
       {
         "filename": "802.jpeg",
-        "timestamp": "2022-04-03T18:31:46-04:00"
+        "timestamp": "2022-04-03T18:31:46-04:00",
+        "description": "These are probably the largest grapes I've ever seen in my life."
       },
       {
         "filename": "803.jpeg",
@@ -3286,7 +3340,8 @@
       },
       {
         "filename": "815.jpeg",
-        "timestamp": "2022-04-13T19:13:20-04:00"
+        "timestamp": "2022-04-13T19:13:20-04:00",
+        "description": "Some trivia event going on at Alice Cook, and I happened to show up during it. West Campus sense of community felt like something that was missing during 2020-2021."
       },
       {
         "filename": "816.jpeg",
@@ -3418,7 +3473,8 @@
       },
       {
         "filename": "848.jpeg",
-        "timestamp": "2022-05-05T11:26:26-04:00"
+        "timestamp": "2022-05-05T11:26:26-04:00",
+        "description": "Slope Day advertisement on the table."
       },
       {
         "filename": "849.jpeg",
@@ -3543,7 +3599,8 @@
     "data": [
       {
         "filename": "878.jpeg",
-        "timestamp": "2022-08-30T11:14:34-04:00"
+        "timestamp": "2022-08-30T11:14:34-04:00",
+        "description": "I moved off campus for 2022-2023, and started cooking for myself instead of having a meal plan. Occasionally, I would still eat on campus when people provided me with a free guest swipe."
       },
       {
         "filename": "879.jpeg",
@@ -3567,7 +3624,8 @@
       },
       {
         "filename": "884.jpeg",
-        "timestamp": "2022-10-28T18:35:38-04:00"
+        "timestamp": "2022-10-28T18:35:38-04:00",
+        "description": "I made sure to make the most of these donated guest swipes by eating as much as possible during these meals, usually multiple servings."
       },
       {
         "filename": "885.jpeg",
@@ -3579,7 +3637,8 @@
       },
       {
         "filename": "887.jpeg",
-        "timestamp": "2022-12-05T14:21:11-05:00"
+        "timestamp": "2022-12-05T14:21:11-05:00",
+        "description": "On the last day of classes of the Fall 2022 semester, my apartment building had a fire and I was displaced for the whole day. I ate chicken tenders in Trillium.\nThis is the last photograph entry because I have not eaten on campus at all for the entire Spring 2023 semester. It's so strange to know that just last year, I was relying on campus meals for all of my sustenance."
       }
     ]
   }
