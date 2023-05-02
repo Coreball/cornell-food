@@ -69,13 +69,13 @@
         <h1>Cornell Dining in the Pandemic</h1>
         <p>As experienced through Changyuan Lin</p>
         <p>
-          These photographs were taken over a span of three years, chronicling my experience of how Cornell Dining
-          evolved and responded to the COVID-19 pandemic, and how it has recovered since. This
-          collection contains images from Fall 2019 through Fall 2022.
+          These photographs were taken over a span of three years, chronicling my experience of how
+          Cornell Dining evolved and responded to the COVID-19 pandemic, and how it has recovered
+          since. This collection contains images from Fall 2019 through Fall 2022.
         </p>
       </div>
     {:else}
-      <img src="/images/{current.filename}" alt="Image {current.filename}" />
+      <img src="/cornell-food/images/{current.filename}" alt="Image {current.filename}" />
       <div class="separator" />
       <div id="description">
         <p class="date">{dayjs(current.timestamp).format('LLLL')}</p>
